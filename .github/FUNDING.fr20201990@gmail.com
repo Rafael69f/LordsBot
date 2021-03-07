@@ -2,11 +2,11 @@
 
 github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [cangica30user1, user2]
 patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective cangica30 
+open_collective: # Replace with a single Open Collective username
 ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-fr20201990@gmail.com/package-name e.g., npm/babel
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
 community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
 liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt fr20201990@gmail.com 
+issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
 custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
